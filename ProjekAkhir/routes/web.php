@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\HomeController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,11 +18,15 @@ use App\Http\Controllers\IndexController;
 
 Route::get('/', [LoginController::class, 'login']);
 
-Route::get('/login', [IndexController::class, 'home']);
+Route::get('/home', [HomeController::class, 'index']);
 
-route::get('/master', function() {
+route::get('master', function() {
     return view('layouts.master');
 });
-route::get('/home', function() {
+route::get('home', function() {
     return view('layouts.home');
 });
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
