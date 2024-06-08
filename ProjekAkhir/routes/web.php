@@ -22,3 +22,6 @@ Route::get('/login', [IndexController::class, 'home']);
 route::get('/master', function() {
     return view('layouts.master');
 });
+route::get('/home', function() {
+    return view('layouts.home');
+});
