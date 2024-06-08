@@ -104,9 +104,8 @@
 						<div class="row single-slide align-items-center d-flex">
 							<div class="col-lg-5 col-md-6">
 								<div class="banner-content">
-									<h1>Nike New <br>Collection!</h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-										dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+									<h1>Camera New <br>Collection!</h1>
+									<p>Canon memperkenalkan koleksi terbarunya dengan teknologi canggih yang dirancang untuk meningkatkan kualitas fotografi dan videografi Anda. Produk baru ini termasuk Canon EOS R5 Mark II, kamera mirrorless dengan sensor CMOS full-frame 45MP, stabilisasi gambar yang lebih baik, dan kemampuan merekam video 8K pada 30fps. Sistem Dual Pixel CMOS AF II yang cepat dan akurat menjadikannya pilihan sempurna untuk menangkap aksi cepat dan pemandangan yang detail. Dengan bodi yang tahan cuaca dan konstruksi yang kuat, kamera ini dapat diandalkan dalam berbagai kondisi pemotretan.</p>
 									<div class="add-bag d-flex align-items-center">
 										<a class="add-btn" href=""><span class="lnr lnr-cross"></span></a>
 										<span class="add-text text-uppercase">Add to Bag</span>
@@ -115,7 +114,7 @@
 							</div>
 							<div class="col-lg-7">
 								<div class="banner-img">
-									<img class="img-fluid" src="karma/img/banner/banner-img.png" alt="">
+									<img class="img-fluid" src="karma/img/kamera/2.webp" alt="">
 								</div>
 							</div>
 						</div>
@@ -123,9 +122,8 @@
 						<div class="row single-slide">
 							<div class="col-lg-5">
 								<div class="banner-content">
-									<h1>Nike New <br>Collection!</h1>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-										dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+									<h1>Camera New <br>Collection!</h1>
+									<p>disini terdapat jenis-jenis kamera</p>
 									<div class="add-bag d-flex align-items-center">
 										<a class="add-btn" href=""><span class="lnr lnr-cross"></span></a>
 										<span class="add-text text-uppercase">Add to Bag</span>
@@ -134,7 +132,7 @@
 							</div>
 							<div class="col-lg-7">
 								<div class="banner-img">
-									<img class="img-fluid" src="karma/img/banner/banner-img.png" alt="">
+									<img class="img-fluid" src="karma/img/kamera/2.webp" alt="">
 								</div>
 							</div>
 						</div>
@@ -164,10 +162,9 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p1.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/1.png" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>Camera Nikon Classic</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
@@ -185,10 +182,9 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p2.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/2.jpg" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>Camera Canon</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
@@ -206,10 +202,9 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p3.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/5.webp" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>Digital SLR Camera 2.4 Inch TFT LCD Screen 1080P 16X Zoom Anti-shake</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
@@ -226,31 +221,9 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p4.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/6.webp" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
-								<div class="price">
-									<h6>$150.00</h6>
-									<h6 class="l-through">$210.00</h6>
-								</div>
-								<div class="prd-bottom">
-
-									<a href="" class="social-info">
-										<span class="ti-bag"></span>
-										<p class="hover-text">add to bag</p>
-									</a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<!-- single product -->
-					<div class="col-lg-3 col-md-6">
-						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p5.jpg" alt="">
-							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>16X Digital Zoom Digital Camera Video Recording HD Telephoto Camera</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
@@ -268,10 +241,9 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p6.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/7.webp" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>Canon EOS 1500D Kit EF-S 18-55mm F/3.5-5.6 IS II</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
@@ -289,10 +261,9 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p7.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/8.webp" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>Canon EOS RP Body Only</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
@@ -310,10 +281,29 @@
 					<!-- single product -->
 					<div class="col-lg-3 col-md-6">
 						<div class="single-product">
-							<img class="img-fluid" src="karma/img/product/p8.jpg" alt="">
+							<img class="img-fluid" src="karma/img/kamera/9.webp" alt="">
 							<div class="product-details">
-								<h6>addidas New Hammer sole
-									for Sports person</h6>
+								<h6>Canon EOS M50 Mark II Body Only / Canon EOS M50II Garansi Resmi - M50</h6>
+								<div class="price">
+									<h6>$150.00</h6>
+									<h6 class="l-through">$210.00</h6>
+								</div>
+								<div class="prd-bottom">
+
+									<a href="" class="social-info">
+										<span class="ti-bag"></span>
+										<p class="hover-text">add to bag</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single product -->
+					<div class="col-lg-3 col-md-6">
+						<div class="single-product">
+							<img class="img-fluid" src="karma/img/kamera/1.webp" alt="">
+							<div class="product-details">
+								<h6>Kamera Analog NIKKO original FMO</h6>
 								<div class="price">
 									<h6>$150.00</h6>
 									<h6 class="l-through">$210.00</h6>
